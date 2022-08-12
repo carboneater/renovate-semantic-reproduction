@@ -4,5 +4,6 @@
     "config:base",
     "group:allNonMajor"
   ],
+  "rangeStrategy": "bump",
   "semanticCommits": "enabled"
 }
