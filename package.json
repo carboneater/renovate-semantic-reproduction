@@ -17,11 +17,11 @@
   },
   "homepage": "https://github.com/carboneater/renovate-semantic-reproduction#readme",
   "devDependencies": {
-    "@alloc/is": "^3.1.0",
+    "@alloc/is": "^3.1.2",
     "@types/node": "^18.6.5",
-    "typescript": "^4.6.4"
+    "typescript": "^4.7.4"
   },
   "dependencies": {
-    "bent": "^7.2.0"
+    "bent": "^7.3.12"
   }
 }
