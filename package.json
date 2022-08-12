@@ -1,0 +1,26 @@
+{
+  "name": "renovate-semantic-reproduction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carboneater/renovate-semantic-reproduction.git"
+  },
+  "author": "",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/carboneater/renovate-semantic-reproduction/issues"
+  },
+  "homepage": "https://github.com/carboneater/renovate-semantic-reproduction#readme",
+  "devDependencies": {
+    "@types/node": "18.6",
+    "typescript": "4.6"
+  },
+  "dependencies": {
+    "bent": "7.2"
+  }
+}
